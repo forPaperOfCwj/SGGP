@@ -1,6 +1,6 @@
 
-# SEGP
-The official PyTorch implementation of the paper SEGP.
+# SGGP
+The official PyTorch implementation of the paper SGGP.
 
 # NOTE
 Since the paper has not yet been accepted, the training part of the code for 'train_maxNensemble.py' has not been fully uploaded, and thus it cannot be trained. However, the relevant model files and test codes can run properly. We will upload all the complete codes related to 'train_maxNensemble.py' after the article is officially accepted.
